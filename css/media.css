@@ -1,0 +1,590 @@
+
+
+@media screen and (max-width: 1800px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 297px;
+	}
+}
+
+@media screen and (max-width: 1700px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 249px;
+	}
+}
+
+
+@media screen and (max-width: 1600px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 201px;
+	}
+
+}
+
+@media screen and (max-width: 1500px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 149px;
+	}
+}	
+
+
+@media screen and (max-width: 1440px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 140px;
+	}
+}
+
+
+@media screen and (max-width: 1366px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 66px;
+	}
+}
+
+@media screen and (max-width: 1300px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 44px;
+	}
+}
+
+@media screen and (max-width: 1250px) {
+	.container {
+		padding: 0 16px;
+	}
+
+	.the-mining-conatiner {
+		padding: 0;
+	}
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+	.the-mining-block {
+		padding: 160px 88px 120px 16px;
+	}
+
+	.the-mining-block2 {
+		padding: 160px 16px 160px 60px;
+	}
+}
+
+@media screen and (max-width: 1100px) {
+	.the-mining-block2 {
+		padding: 60px 16px 60px 16px;
+	}
+
+	.the-mining-block {
+		padding: 60px 16px 20px 16px;
+	}
+
+	.dropdown-border {
+		width: 100%;
+	}
+
+	.work {
+		padding: 60px 0 60px 0;
+	}
+
+	.work-title {
+		font-size: 32px;
+		line-height: 36px;
+	}
+
+	.calculator {
+		padding: 60px 0 0 0;
+	}
+
+	.price-button {
+		padding: 40px 0 60px 0;
+	}
+
+	.blockchain {
+		padding: 60px 0 0 0;
+	}
+
+	.fag {
+		padding: 60px 0 60px 0;
+	}
+
+	.blockchain-block2 {
+		padding: 0 0 0 0;
+	}
+  
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+	.work-title {
+		font-size: 24px;
+		line-height: 50px;
+	}
+
+	.estimated-button {
+		width: 120px;
+	}
+
+	.the-mining-suptitle2 {
+		width: 100%;
+	}
+  
+}
+
+@media screen and (max-width: 900px) {
+	
+	.accordion .hidden-box p {
+		width: 100%;
+		padding: 30px 0 0 0;
+	}
+
+}
+
+@media screen and (max-width: 850px) {
+	.estimated-button {
+		width: 80px;
+	}
+
+
+
+}
+
+
+@media screen and (max-width: 800px) {
+	.mobile-work-title2 {
+		text-align: center;
+		display: block;
+	}
+
+	.mobile-work-title {
+		display: none;
+	}
+
+	.work-wrap {
+		padding: 20px 0 0 0;
+	}
+
+	.work {
+		padding: 30px 0;
+	}
+
+	.the-mining-wrap {
+		flex-wrap: wrap;
+	}
+
+	.the-mining-block {
+		padding: 30px 16px 30px 16px;
+		width: 100%;
+	}
+
+	.the-mining-block2 {
+		padding: 30px 16px 30px 16px;
+		width: 100%;
+	}
+
+	.the-mining-title {
+		text-align: center;
+	}
+
+	.the-mining-suptitle {
+		padding: 25px 0 0 0;
+		text-align: center;
+	}
+
+	.the-mining-img {
+		text-align: center;
+	}
+
+	.losses-block {
+		width: 33.33333%;
+	}
+
+	.the-mining-losses {
+		padding: 50px 0 0 0;
+	}
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+	.header-nav li a {
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	.header-input {
+		width: 220px;
+	}
+
+	.header-button {
+		width: 70px;
+	}
+
+	.calculator-suptitle {
+		width: 350px;
+	}
+
+	.calculator-inner {
+		flex-wrap: wrap;
+	}
+
+	.calculator-computing {
+		text-align: center;
+		width: 100%;
+	}
+
+	.calculator-estimated {
+		padding: 20px 0 0 0;
+		text-align: center;
+		width: 100%;
+	}
+
+	.computing-wrap {
+		justify-content: center;
+	}
+
+	.estimated-border {
+		width: 450px;
+	}
+
+	.estimated-wrap {
+		display: flex;
+		justify-content: center;
+	}
+
+	.estimated-button {
+		width: 150px;
+	}
+
+	.blockchain-block {
+		width: 40%;
+	}
+
+	.blockchain-block2 {
+		width: 60%;
+	}
+
+	.losses-block {
+		width: 50%;
+	}
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+	.header-button {
+		width: 60px;
+	}
+
+	.header-input {
+		width: 180px;
+	}
+
+	.accordion .text {
+		font-size: 16px;
+		line-height: 28px;
+	}
+
+	.accordion .item.open .hidden-box {
+		font-size: 13px;
+		line-height: 17px;
+	}
+
+	.accordion .item.open .hidden-box2 {
+		font-size: 13px;
+		line-height: 17px;
+	}
+
+	.accordion .item.open .icon {
+		width: 32px;
+		height: 32px;
+	}
+
+	.accordion .icon {
+		width: 32px;
+		height: 32px;
+	}
+}
+
+@media screen and (max-width: 550px) {
+  .work-miner {
+  	padding: 29px 0 0 0;
+  	display: flex;
+  	align-items: center;
+  }
+
+  .header-miner {
+  	display: none;
+  }
+
+  .mobile-work-title2 {
+  	text-align: left;
+  }
+
+  .work-link {
+  	display: none;
+  }
+
+  .header-input {
+  	width: 243px;
+  }
+
+  .header-button {
+  	width: 100px;
+  }
+
+  .work-links {
+  	padding: 40px 0 0 0;
+  	display: flex;
+  	justify-content: space-between;
+  }
+
+  .calculator-wrap {
+  	flex-wrap: wrap;
+  }
+
+  .calculator-title {
+  	width: 100%;
+  }
+
+  .calculator-suptitle {
+  	width: 100%;
+  	padding: 24px 0 0 0;
+  }
+
+  .estimated-border {
+  	width: 100%;
+  }
+
+  .estimated-button {
+  	width: 33.33333%;
+  }
+
+  .calculator-inner {
+  	padding: 40px 16px;
+  }
+
+  .blockchain-block {
+  	display: none;
+  }
+
+  .blockchain-block2 {
+  	width: 100%;
+  }
+
+  .blockchain-img {
+  	padding: 50px 0 0 0;
+  }
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+  
+}
+
+@media screen and (max-width: 450px) {
+  .accordion .text br {
+  	display: block;
+  }
+
+
+}
+
+@media screen and (max-width: 420px) {
+  	.the-mining-img {
+  		display: none;
+  	}
+
+  	.the-mining-losses {
+  		display: none;
+  	}
+
+  	.losses-wrap {
+  		display: none;
+  	}
+
+  	.mining-losses-mobile {
+  		padding: 50px 0 0 0;
+  		display: flex;
+  	}
+
+  	.losses-mobile {
+  		padding: 157px 0 0 0;
+  	}
+
+  	.losses-mobile2 {
+  		padding: 74px 0 0 0;
+  	}
+
+  	.losses-mobile3 {
+  		padding: 73px 0 0 0;
+  	}
+
+  	.losses-mobile4 {
+  		padding: 76px 0 0 0;
+  	}
+
+  	.losses-mobile5 {
+  		padding: 74px 0 0 0;
+  	}
+
+  	.the-mining-title {
+  		text-align: left;
+  	}
+
+  	.the-mining-suptitle {
+  		text-align: left;
+  	}
+
+  	.mining-losses-mobile2 {
+  		padding: 50px 0 0 0;
+  		display: flex;
+  		align-items: center;
+  	}
+
+  	.the-mining-suptitle2 {
+  		opacity: 1;
+  	}
+
+  	.computing-wrap {
+  		flex-wrap: wrap;
+  	}
+
+  	.computing-block {
+
+  		justify-content: center;
+  		width: 100%;
+  		padding: 0 0 24px 0;
+  	}
+
+  	.computing-block2 {
+
+  		position: relative;
+  		width: 100%;
+  	}
+
+  	.select-img {
+  		position: absolute;
+  		right: 16px;
+  	}
+
+  	.price-title {
+  		font-size: 24px;
+		line-height: 32px;
+  	}
+
+  	.price-suptitle {
+  		padding: 16px 0 0 0;
+  	}
+
+  	.calculator-price {
+  		padding: 40px 0 0 0;
+  	}
+
+  	.price-button button {
+  		width: 100%;
+  	}
+
+  	.footer-wrap {
+  		justify-content: center;
+  		flex-wrap: wrap;
+  	}
+
+  	.footer-title {
+  		width: 100%;
+  		text-align: center;
+  	}
+
+  	.footer-link {
+  		text-align: center;
+  	}
+
+  	.footer {
+  		padding: 30px 0;
+  	}
+
+  	.blockchain-inner {
+  		display: none;
+  	}
+
+  	.blockchain-mobile {
+  		padding: 40px 0 0 0;
+  		display: block;
+  	}
+
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+}
+
+@media screen and (max-width: 350px) {
+	.the-mining-suptitle br {
+		display: none;
+	}
+
+	.header-input {
+		width: 186px;
+	}
+
+	.losses-mobile {
+		padding: 153px 0 0 0;
+	}
+
+	.losses-mobile2 {
+		padding: 71px 0 0 0;
+	}
+
+	.losses-mobile4 {
+		padding: 71px 0 0 0;
+	}
+
+	.blockchain-mobila-border {
+		width: 38px;
+	}
+
+	.blockchain-mobila-border2 {
+		width: 27px;
+	}
+
+	.blockchain-mobila-border3 {
+		width: 59px;
+	}
+
+	.blockchain-mobila-border4 {
+		width: 76px;
+	}
+
+	.blockchain-mobila-border5 {
+		width: 116px;
+	}
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+	.losses-mobile {
+		padding: 137px 0 0 0;
+	}
+
+	.losses-mobile2 {
+		padding: 57px 0 0 0;
+	}
+
+	.losses-mobile3 {
+		padding: 57px 0 0 0;
+	}
+
+	.losses-mobile4 {
+		padding: 57px 0 0 0;
+	}
+
+	.losses-mobile5 {
+		padding: 29px 0 0 0;
+	}
+}
